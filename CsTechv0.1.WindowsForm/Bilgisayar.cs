@@ -47,6 +47,10 @@ namespace CsTechv0._1.WindowsForm
 
                 else if (Convert.ToInt32(txtDgrSayi.Text) == 1)
                 {
+                    if (binlerBasamagi == 0)
+                    {
+                        binlerBasamagi = 1;
+                    }
                     /*eğer önceki bulunan sayılardan biriyle aynı ise girilecek sayının rakamları farklı olacağı için farklı rakamda farklı artış sağlanır.*/
                     yüzlerBasamagi = kontroller(100, yüzlerBasamagi);
                 }
