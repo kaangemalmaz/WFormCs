@@ -12,7 +12,7 @@ Program githubdan indirilince direk olarak çalıştırılabilir.
 Programda 2 seçenek bulunmakta olup, 
 -	Siz bilgisayarın sayısını bilsin.
 -	Bilgisayar sizin sayısını bilsin.
--	
+
 Seçenek 1 :  Siz bilgisayarın sayısını bilin.
 Bilgisayar rakamları birbirinden farklı 4 rakamlı bir sayi üretir ve size ipucu verir. Eğer girdiğiniz sayının basamak değerleri ile bilgisayarın tuttuğu basamak değerlerinden uyuşanlar varsa uyuşan basamak değerleri için doğru basamak sayısı artar. Yanlış olanların bilgisini de vererek size ipuçları verir ve sizin sayıyı bulmanızı sağlar.
 
